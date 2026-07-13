@@ -13,9 +13,3 @@ Machine Learning Researcher — interpretable ML, structured NLP, and financial 
 **Central bank communication graphs for Bank of England and Federal Reserve documents, 1998-2026** — Under review, Scientific Data. CC BY 4.0 temporal graph dataset from 2,872 documents. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
 
 **Attributing Central-Bank Communication: Content Channels and Tail Repricing of UK Rate Expectations** — Working paper. Typed-graph attribution linking BoE communication to rate-expectation repricing. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
-
-### Links
-
-[ResearchGate](https://www.researchgate.net/profile/Idrees-Aziz) · [LinkedIn](https://linkedin.com/in/idrees-m-aziz)
-
-Ankara, Türkiye
