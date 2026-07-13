@@ -6,7 +6,7 @@ Machine Learning Researcher — interpretable ML, structured NLP, and financial 
 
 **Through the Hidden States: Synthetic Latent Supervision for Sparse-Label Financial Prediction** — Accepted, ICBFS 2026. Latent-state transfer framework cutting forecast error 6-7% in data-scarce financial markets. [Manuscript](https://www.researchgate.net/publication/408276517_Through_the_Hidden_States_Synthetic_Latent_Supervision_for_Sparse-Label_Financial_Prediction) · [Code](https://github.com/idreesaziz/market-decompression)
 
-**No One Gets an A: Distributional Bias in LLM Text Scoring** — Under review, ACL ARR (with Mahir Sadikhov). Audits 11 LLMs across ~99,000 evaluations for score compression. [Manuscript](https://www.researchgate.net/publication/402947178_No_One_Gets_an_A_Distributional_Bias_in_LLM_Text_Scoring) · [Code](https://github.com/idreesaziz/Distributional-Bias-in-LLM-Text-Scoring)
+**No One Gets an A: Distributional Bias in LLM Text Scoring** — Under review, ACL ARR. Audits 11 LLMs across ~99,000 evaluations for score compression. [Manuscript](https://www.researchgate.net/publication/402947178_No_One_Gets_an_A_Distributional_Bias_in_LLM_Text_Scoring) · [Code](https://github.com/idreesaziz/Distributional-Bias-in-LLM-Text-Scoring)
 
 **A Gaussian Recency Score for Central-Bank Policy-Rate Timing and Direction** — Under review, Journal of Forecasting. Interpretable policy-rate timing/direction model across 48 economies. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
 
