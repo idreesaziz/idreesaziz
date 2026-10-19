@@ -1,15 +1,64 @@
-## Idrees Mustafa Aziz
+# Idrees Mustafa Aziz
 
-Machine Learning Researcher — interpretable ML, structured NLP, and financial time-series. Computer Engineering undergraduate at METU applying transparent, reproducible methods to monetary-policy decisions, central-bank communication, and financial markets, including public research infrastructure built from thousands of central-bank documents and cross-country models spanning dozens of economies.
+**Machine learning researcher | Forecasting, prediction markets, and structured financial data**
 
-### Papers & Manuscripts
+Computer Engineering undergraduate at **Middle East Technical University (METU)**. I develop and test forecasting methods, reconstruct crowd beliefs from prediction-market data, and turn central-bank documents into structured research datasets. My work combines ML with controlled experiments, statistical validation, and explicit reporting of negative results.
 
-**Through the Hidden States: Synthetic Latent Supervision for Sparse-Label Financial Prediction** — Accepted, ICBFS 2026. Latent-state transfer framework cutting forecast error 6-7% in data-scarce financial markets. [Manuscript](https://www.researchgate.net/publication/408276517_Through_the_Hidden_States_Synthetic_Latent_Supervision_for_Sparse-Label_Financial_Prediction) · [Code](https://github.com/idreesaziz/market-decompression)
+**Three sole-author papers accepted after peer review at the 7th ACM International Conference on AI in Finance (ICAIF 2026); two selected for oral presentation.** These are conference acceptances, with publication statuses listed below.
 
-**No One Gets an A: Distributional Bias in LLM Text Scoring** — Under review, ACL ARR. Audits 11 LLMs across ~99,000 evaluations for score compression. [Manuscript](https://www.researchgate.net/publication/402947178_No_One_Gets_an_A_Distributional_Bias_in_LLM_Text_Scoring) · [Code](https://github.com/idreesaziz/Distributional-Bias-in-LLM-Text-Scoring)
+## Selected research
 
-**A Gaussian Recency Score for Central-Bank Policy-Rate Timing and Direction** — Under review, Journal of Forecasting. Interpretable policy-rate timing/direction model across 48 economies. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
+### Prediction-market belief reconstruction
 
-**Central bank communication graphs for Bank of England and Federal Reserve documents, 1998-2026** — Under review, Scientific Data. CC BY 4.0 temporal graph dataset from 2,872 documents. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
+**Recovering Pre-Event Crowd Beliefs in Prediction Markets with a Risk-Calibrated Mixture of Inverse Experts**
 
-**Attributing Central-Bank Communication: Content Channels and Tail Repricing of UK Rate Expectations** — Working paper. Typed-graph attribution linking BoE communication to rate-expectation repricing. [ResearchGate profile](https://www.researchgate.net/profile/Idrees-Aziz)
+**ACM ICAIF 2026 · Oral selection · ACM proceedings forthcoming November 2026**
+
+Linked pre-trading surveys to transaction histories in 98 prediction markets. Evaluated belief reconstruction on held-out projects, reducing RMSE by 10.2% relative to pooling.
+
+[**Preprint**](https://doi.org/10.5281/zenodo.23377346)
+
+### FinEntropyBench
+
+**FinEntropyBench: What Does Entropy Tell Us About Market Efficiency?**
+
+**ACM ICAIF 2026 · Oral selection · ACM proceedings forthcoming November 2026**
+
+Tested competing interpretations of market entropy using known-ground-truth simulations and 16 market series. Separated volatility effects from return predictability, with multiple-testing controls and explicit null results.
+
+[**Preprint**](https://doi.org/10.5281/zenodo.23377381)
+
+### Market Decompression
+
+**Market Decompression: Learning Latent-State Inverse Maps for Cold-Start Financial Prediction**
+
+**Accepted after peer review at ACM ICAIF 2026 · Not included in the proceedings**
+
+Investigated whether synthetic latent-state supervision improves forecasting when real labels are scarce. Used matched comparisons and separate discovery, confirmation, and untouched holdout stages; forecast error fell in three of five markets.
+
+[**Preprint**](https://doi.org/10.5281/zenodo.23377391) · [Earlier experimental code](https://github.com/idreesaziz/market-decompression)
+
+### Central-bank communication graphs
+
+**Central bank communication graphs for Bank of England and Federal Reserve documents, 1998–2026**
+
+**Sole-author manuscript under review at Scientific Data (Nature Portfolio)**
+
+Built a public temporal graph dataset from **2,872 documents**, with source traceability, validation scripts, and documentation. Designed a 400-item validation exercise for two independent raters and analyzed agreement.
+
+[**Data, code, and documentation**](https://doi.org/10.5281/zenodo.20669457)
+
+## Further research and projects
+
+- **[No One Gets an A: Distributional Bias in LLM Text Scoring](https://github.com/idreesaziz/Distributional-Bias-in-LLM-Text-Scoring)** — Coauthored research manuscript auditing score compression across 11 LLMs and approximately 99,000 evaluations.
+- **A Gaussian Recency Score for Detecting and Directing Central-Bank Policy-Rate Changes** — Sole-author abstract accepted for oral presentation at IOCRF 2026.
+- **[Sycophantic AI benchmark](https://github.com/idreesaziz/sycophantic-ai-benchmark)** — Experimental code for studying model responses to adversarial user exchanges.
+- **[Agent Trace](https://github.com/idreesaziz/agent-trace)** — Local debugging and visualization tools for multi-agent workflows.
+
+## Research interests
+
+ML for forecasting and belief estimation; experimental design and measurement validity; structured NLP; AI forecasting and model evaluation.
+
+**Tools:** Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Git, LaTeX.
+
+**Contact:** [idrees.aziz@metu.edu.tr](mailto:idrees.aziz@metu.edu.tr)
