@@ -1,6 +1,6 @@
 # Hi, I'm Idrees
 
-I'm a Computer Engineering student at METU working on machine learning. My research explores LLM evaluation, learning from simulated data, and financial forecasting.
+I'm a Computer Engineering student working on machine learning. My research explores LLM evaluation, learning from simulated data, and financial forecasting.
 
 ## Things I've built
 
